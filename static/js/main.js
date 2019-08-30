@@ -11,7 +11,7 @@ async function app() {
   const imgEl = document.getElementById('img');
   const result = await net.classify(imgEl);
   console.log(result);
-  document.getElementById("predicted_text").innerHTML = result[0].className;
+  document.getElementById("predicted_text").innerHTML = "Classified image is - " + result[0].className;
 
 }
 
