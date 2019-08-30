@@ -1,5 +1,5 @@
 # Img_clf_tf_js_web_app
-The first assignment for Siraj Raval course
+The first assignment for Siraj Raval Make Money with ML Course
 
 
 To run the application first install the flask framework by using the instruction
@@ -12,4 +12,12 @@ Then run the app on terminal by setting the commands
 
 This app is using tensorflow.js to classify the images using Mobile net pretrained model.
 This is an example of transfer learning.
+
+
+
+Technologies used in this app
+- Flask
+- Tensorflow
+- HTML
+- Javascript
 
