@@ -21,3 +21,8 @@ Technologies used in this app
 - HTML
 - Javascript
 
+
+
+
+
+* This project was submitted on time for evaluation.
